@@ -1,0 +1,2 @@
+chmod +x rpi-temp.sh
+chmod +x datafiles/my-rpi-temp
